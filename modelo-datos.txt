@@ -1,0 +1,25 @@
+Entidad: usuarios
+
+Campos principales:
+-id
+-nombre
+-correo
+-contraseña
+-fecha_registro
+
+Propósito:
+Almacenar la información básica de los usuarios que acceden a la plataforma y permitir su autenticación.
+
+Entidad: reportes
+
+Campos principales:
+-id
+-usuario_id
+-titulo
+-descripcion
+-ubicacion
+-fecha
+-estado
+
+Propósito:
+Registrar las incidencias o problemas reportados por la comunidad para darles seguimiento y facilitar su gestión. 

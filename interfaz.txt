@@ -1,0 +1,5 @@
+La plataforma tendría una pantalla principal donde los usuarios puedan ver las causas o reportes disponibles.
+También contaría con un formulario sencillo para crear una nueva causa, ingresando el título, la descripción y la fecha.
+Cada causa tendría un botón para apoyar la iniciativa y un contador que muestre cuántas personas la han respaldado.
+Además, existiría una opción para consultar el estado de cada causa y conocer su avance.
+La interfaz debe ser clara, fácil de usar y proteger la información personal de los usuarios para brindar una experiencia segura y confiable.

@@ -1,0 +1,5 @@
+la autenticación o login permite verificar la identidad antes de darle acceso a una aplicación.
+Esto ayuda a que cada persona pueda ingresar con su propia cuenta de forma segura.
+Algunas rutas deben estar protegidas porque contienen información privada o funciones que solo pueden usar los usuarios autorizados.
+De esta manera se evita que personas no autorizadas modifiquen o consulten datos importantes.
+Además, no se deben exponer públicamente contraseñas, documentos de identidad, números de teléfono, correos electrónicos, tokens, claves de acceso ni cualquier otro dato sensible de los usuarios.
